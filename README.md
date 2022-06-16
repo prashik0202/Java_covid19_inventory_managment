@@ -2,4 +2,4 @@
 
 #this is miniproject about inventory managent in pandemic
 
-#In this project we have used the MySQL database and Xammp server local host: 3308
+#In this project we have used the MySQL database and Xampp server local host: 3308
